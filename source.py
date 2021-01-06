@@ -10,7 +10,7 @@ filepath='./'
 ydl_opts = {
     'format': 'best',
     # 'proxy' : proxy1,
-    'outtmpl' : filepath+'%(title)s.%(ext)s',  #  adding some random number to avoid overwrite
+    'outtmpl' : filepath+'%(title)s.%(ext)s',  
     'retries': 5,
     'no_warnings': False,   
     'noplaylist':True,
