@@ -1,6 +1,6 @@
 # youtube_dlCmd
 
-Little commandline I usually use on Windows for downloading videos from numerous sites that youtube_dl support.
+Little commandline I usually use on Windows for downloading videos from numerous sites that youtube_dl support (like Youtube.com, etc).
 
 Also compiled a .exe if anyone's interested.
 
