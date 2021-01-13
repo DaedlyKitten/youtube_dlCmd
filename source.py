@@ -2,9 +2,9 @@ import time
 import win32clipboard
 from youtube_dl import YoutubeDL
 
-filepath='D:/'
+filepath='./'
 format1='best' #'bestaudio'
-recordfilepath='D:/videoDLrecord.txt'
+recordfilepath='./videoDLrecord.txt'
 
 ydl_opts = {
     'format': format1,
